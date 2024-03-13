@@ -1,0 +1,7 @@
+W:\code\网络通迅\数据传输\try\客户端\客户端data\客户端data\bin\Debug\客户端data.exe.config
+W:\code\网络通迅\数据传输\try\客户端\客户端data\客户端data\bin\Debug\客户端data.exe
+W:\code\网络通迅\数据传输\try\客户端\客户端data\客户端data\bin\Debug\客户端data.pdb
+W:\code\网络通迅\数据传输\try\客户端\客户端data\客户端data\obj\Debug\客户端data.csproj.AssemblyReference.cache
+W:\code\网络通迅\数据传输\try\客户端\客户端data\客户端data\obj\Debug\客户端data.csproj.CoreCompileInputs.cache
+W:\code\网络通迅\数据传输\try\客户端\客户端data\客户端data\obj\Debug\客户端data.exe
+W:\code\网络通迅\数据传输\try\客户端\客户端data\客户端data\obj\Debug\客户端data.pdb
